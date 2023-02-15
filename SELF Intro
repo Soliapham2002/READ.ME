@@ -1,0 +1,5 @@
+name = "Solia"
+age = 21
+hobby = "cooking"
+
+print(f"Hi, my name is {Solia}, and I'm {21} years old. I love {cooking} in my free time!")
