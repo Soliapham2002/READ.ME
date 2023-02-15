@@ -1,5 +1,6 @@
 name = "Solia"
-age = 21
-hobby = "cooking"
+degree = "Business Analytics and Digital Marketing"
+passion = "leveraging data to improve marketing performance"
 
-print(f"Hi, my name is {Solia}, and I'm {21} years old. I love {cooking} in my free time!")
+print(f"Hey there, I'm {Solia}! I'm currently pursuing a double degree in {Business Analytics & Digital Marketing }, 
+and I have a passion for {leveraging data to improve marketing performance}. Nice to meet you!")
